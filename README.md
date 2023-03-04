@@ -5,6 +5,7 @@
 
 > INSTALL / УСТАНОВКА:
 > - Install Python / Установите Python
+> - Install ZIP with code / Установите ZIP файл с кодом
 > - Enter Command prompt in directory with code / Зайдите в командную строку через папку с кодом
 > - Write this / Напишите это
 >> pip install -r requirements.txt
